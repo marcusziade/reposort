@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/marcusziade/reposort/internal/reposort"
+	reposort "github.com/marcusziade/reposort/internal"
 )
 
 func main() {

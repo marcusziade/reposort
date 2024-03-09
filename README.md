@@ -41,7 +41,7 @@ Contributions to RepoSort are welcome. If you have suggestions for improvements 
 
 ## License
 
-RepoSort is released under the MIT License. See the LICENSE file for more details.
+RepoSort is released under the MIT License.
 
 ## Support
 

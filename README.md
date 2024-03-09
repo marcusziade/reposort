@@ -2,6 +2,10 @@
 
 RepoSort is a command-line tool written in Go that organizes repositories into language-specific directories. It is designed to help developers maintain a clean workspace by automatically sorting repositories based on the programming language they are primarily written in.
 
+
+https://github.com/marcusziade/reposort/assets/47460844/55113f25-cb9e-4295-b4a1-bd8d8f9cd748
+
+
 ## Installation
 
 Before installing RepoSort, ensure you have Go installed on your system. You can then install RepoSort by cloning the repository and building the binary.

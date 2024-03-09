@@ -12,7 +12,7 @@ Before installing RepoSort, ensure you have Go installed on your system. You can
 
 ```bash
 git clone https://github.com/marcusziade/reposort.git
-cd reposort/cmd
+cd reposort/cmd/reposort
 go build
 ```
 
